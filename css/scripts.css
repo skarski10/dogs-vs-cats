@@ -7,3 +7,12 @@
   width: 70%
   height:60px;
 }
+
+#catdog {
+  background-image: url("../img/catdog.jpg") ;
+  background-size: contain;
+}
+
+h1 {
+  text-align: center;
+}
